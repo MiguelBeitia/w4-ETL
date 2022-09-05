@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/110235113/187956158-b50a4fce-2535-4c57-9d4f-6802e5967a85.png)
+![image](https://user-images.githubusercontent.com/110235113/188468020-f6ce0be2-f279-4a4a-942a-b4dd6e0705b3.png)
+
 
 DESTINY 2 GUNS ETL
 
