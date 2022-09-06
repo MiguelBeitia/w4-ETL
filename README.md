@@ -32,6 +32,6 @@ Información obtenida en:
 
 2. https://www.light.gg/db/category/1?page=1&f=5(14;13;12;11;10;9;8;7;6;5;4;3;2;1) --> Rating Armas
 
-3. https://warmind.io/crucible --> El top 10 de armas mas usadas en PvP
+3. https://warmind.io/crucible --> El top 10 de armas mas usadas en PvP (Problemas a la hora de scrapear esta)
 
 
